@@ -1,2 +1,1 @@
-# Phase-Functions
-A repository of phase functions generated through Lorenz-Mie theory.
+This will be updated whenever I have a phase function that I feel is worth including.
